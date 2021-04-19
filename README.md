@@ -1,2 +1,2 @@
 # supervised-ml
-Prediction using supervised ML
+Task 1: Prediction using supervised ML
